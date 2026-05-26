@@ -71,6 +71,20 @@ This repository contains **25 production-ready skills** for AI coding agents (He
 
 ---
 
+## 🔧 Tool Requirements
+
+**Do these skills need external tools?**
+
+**76% of skills (19/25)** require ZERO external tools - they work purely through AI agent capabilities.
+
+**24% of skills (6/25)** mention optional tools for automation, but work fine without them.
+
+📖 **See [TOOL_REQUIREMENTS.md](./TOOL_REQUIREMENTS.md) for detailed analysis.**
+
+**Bottom line:** Use all 25 skills immediately without installing anything. Tools are optional productivity boosters.
+
+---
+
 ## 🚀 Quick Start
 
 ### For AI Agent
